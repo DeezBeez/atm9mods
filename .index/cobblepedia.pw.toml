@@ -1,0 +1,13 @@
+filename = 'Cobblepedia-Forge-0.6.6.jar'
+name = 'Cobblepedia [Cobblemon Poképedia]'
+side = 'both'
+
+[download]
+hash = '52cfb266140639e48d92139e8138220026a4e3c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5540312
+project-id = 850946
